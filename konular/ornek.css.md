@@ -37,7 +37,7 @@ CSS’in sahip olduğu seçiciler vardır. Bunlar id ve class olarak ikiye ayrı
 
 
 ## Dosyadan (External) CSS Kullanımı
--burada css için altta style yı çıkardığımız için css kullanamayacağız bunu kullanmak için alttaki komutu en üst satıra yazmamız gerekecek 
+burada css için altta style yı çıkardığımız için css kullanamayacağız bunu kullanmak için alttaki komutu en üst satıra yazmamız gerekecek 
 ```HTML
 <head>
     <link rel="stylesheet" href="style.css">
